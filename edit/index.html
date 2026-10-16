@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data: blob: https:; media-src 'self' blob: https:; style-src 'self' 'unsafe-inline'; font-src 'self'; script-src 'self'; connect-src 'self' https://api.github.com; frame-src 'self' https://www.youtube-nocookie.com https://player.vimeo.com https://www.google.com https://maps.google.com https://docs.google.com https://calendly.com; object-src 'none'; base-uri 'self'; form-action 'none'">
+<title>Developer Mode</title>
+<link rel="stylesheet" href="editor.css">
+</head>
+<body>
+<div id="login" hidden></div>
+<div id="app" hidden>
+  <header id="top">
+    <div class="brand"><span class="logo" id="brandLogo">W</span><div class="bn"><strong id="brandName">Website</strong><small id="projName">Developer Mode</small></div></div>
+    <div class="spacer"></div>
+    <div class="grp">
+      <button class="ico" id="undo" title="Undo (Ctrl+Z)" aria-label="Undo">↶</button>
+      <button class="ico" id="redo" title="Redo (Ctrl+Shift+Z)" aria-label="Redo">↷</button>
+    </div>
+    <div class="grp seg-d" role="group" aria-label="Preview size">
+      <button class="ico on" data-dev="desktop" title="Desktop" aria-label="Desktop preview">🖥</button>
+      <button class="ico" data-dev="tablet" title="Tablet" aria-label="Tablet preview">▭</button>
+      <button class="ico" data-dev="mobile" title="Mobile" aria-label="Mobile preview">📱</button>
+    </div>
+    <div class="linkpill"><a id="siteLink" target="_blank" rel="noopener" title="Open live website">…</a><button class="ico" id="copyLink" title="Copy link" aria-label="Copy website link">⧉</button></div>
+    <span id="saveChip" class="chip" role="status">—</span>
+    <div class="dd"><button class="btn" id="settingsBtn" aria-haspopup="true">⚙ Settings ▾</button><div class="menu" id="settingsMenu" hidden></div></div>
+    <button class="btn" id="previewBtn" title="Preview draft in a new tab">👁 Preview</button>
+    <div class="dd"><button class="btn primary" id="pubBtn" aria-haspopup="true"><span id="pubDot" class="dot"></span><span id="pubLabel">Publish</span> ▾</button><div class="menu right" id="pubMenu" hidden></div></div>
+  </header>
+  <div id="banner" hidden></div>
+  <div id="main">
+    <section id="stage"><div id="frameWrap"><iframe id="canvas" title="Website editing canvas" src="canvas.html"></iframe></div></section>
+    <aside id="side">
+      <nav id="tabs" role="tablist"><button data-tab="insert" class="on" role="tab">Insert</button><button data-tab="pages" role="tab">Pages</button><button data-tab="themes" role="tab">Themes</button><button data-tab="props" role="tab" id="propsTab" hidden>Properties</button></nav>
+      <div id="panel"></div>
+    </aside>
+  </div>
+</div>
+<script type="module" src="editor.js"></script>
+</body>
+</html>

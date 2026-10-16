@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>canvas</title>
+<link rel="stylesheet" href="/assets/site.css">
+<style id="theme"></style>
+<style>
+html,body{margin:0;min-height:100%}
+body{position:relative;background:transparent}
+iframe,video,.wf-video{pointer-events:none}
+.site{min-height:100vh}
+.el{cursor:default}
+.el:hover{outline:1px dashed rgba(139,92,246,.75);outline-offset:3px}
+.sec:hover{box-shadow:inset 0 0 0 1px rgba(139,92,246,.35)}
+.site.ed [data-f]:focus{outline:none}
+.site.ed .el.is-sel{outline:none}
+a{cursor:default}
+.site.ed .nav-toggle{display:none!important}
+.zone-add{display:flex;justify-content:center;padding:12px}
+.zone-add button{font:600 13px system-ui;color:#c4b5fd;background:rgba(139,92,246,.14);border:1px dashed rgba(139,92,246,.6);border-radius:999px;padding:8px 18px;cursor:pointer}
+.zone-add button:hover{background:rgba(139,92,246,.28)}
+#ov{position:absolute;left:0;top:0;width:100%;height:0;z-index:9999;pointer-events:none;font-family:system-ui,sans-serif}
+#ov>*{position:absolute;box-sizing:border-box}
+.ov-box{border:2px solid #8b5cf6;border-radius:4px;pointer-events:none}
+.ov-box.sec{border-color:#22d3ee;border-style:solid}
+.ov-tag{position:absolute;left:-2px;top:-26px;background:#8b5cf6;color:#fff;font:600 11px system-ui;padding:3px 8px;border-radius:6px 6px 0 0;white-space:nowrap}
+.ov-box.sec .ov-tag{background:#0891b2}
+.ov-bar{display:flex;gap:2px;background:#1e1b2e;border:1px solid #4c4670;border-radius:8px;padding:3px;pointer-events:auto;box-shadow:0 6px 22px rgba(0,0,0,.5)}
+.ov-bar button,.ov-bar .drag{all:unset;cursor:pointer;color:#e9e6ff;font:600 13px system-ui;min-width:26px;height:26px;display:grid;place-items:center;border-radius:6px;padding:0 5px}
+.ov-bar button:hover{background:#3b3566}
+.ov-bar .drag{cursor:grab;-webkit-user-drag:element;user-select:none}
+.ov-bar .danger:hover{background:#7f1d1d}
+.ov-drop{background:#22d3ee;border-radius:3px;box-shadow:0 0 0 2px rgba(34,211,238,.3);pointer-events:none}
+.ov-dropzone{border:2px dashed #22d3ee;border-radius:8px;background:rgba(34,211,238,.08);pointer-events:none}
+@media (prefers-reduced-motion:no-preference){.ov-box{transition:all .06s}}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<div id="ov"></div>
+</body>
+</html>

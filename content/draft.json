@@ -1,0 +1,4021 @@
+{
+ "v": 1,
+ "homeId": "p_home",
+ "settings": {
+  "name": "Webfiver",
+  "tagline": "Build Smarter. Grow Faster.",
+  "owner": "Kalpesh Goswami",
+  "description": "Webfiver is a digital services and learning platform founded by Kalpesh Goswami: website development, trading tools, resumes, content writing, LinkedIn services and online courses.",
+  "seoTitle": "Webfiver | Website Development, Trading Tools & Digital Services",
+  "seoDescription": "Webfiver by Kalpesh Goswami offers professional website development, trading tools, ATS-friendly resumes, content writing, LinkedIn profile management, and practical online courses.",
+  "logo": "",
+  "logoMobile": "",
+  "logoH": 40,
+  "logoHM": 32,
+  "favicon": "",
+  "ogImage": "",
+  "lang": "en",
+  "analyticsId": "",
+  "cookieBanner": true,
+  "privacyPageId": "p_privacy",
+  "contactEmail": "",
+  "whatsapp": "",
+  "navExtra": []
+ },
+ "theme": {
+  "primary": "#8B5CF6",
+  "secondary": "#22D3EE",
+  "accent": "#A855F7",
+  "bg": "#09090D",
+  "bg2": "#171722",
+  "text": "#F8FAFC",
+  "heading": "#F8FAFC",
+  "muted": "#A1A1AA",
+  "glass": "rgba(255,255,255,.06)",
+  "glassBorder": "rgba(255,255,255,.14)",
+  "headingFont": "Inter",
+  "bodyFont": "Inter",
+  "radius": 18,
+  "blur": 18,
+  "space": 80,
+  "gap": 24,
+  "maxw": 1180,
+  "fontSize": 16,
+  "shadow": "soft",
+  "btnStyle": "gradient",
+  "linkStyle": "underline",
+  "headerStyle": "glass",
+  "footerStyle": "glass",
+  "headerSticky": true,
+  "preset": "midnight"
+ },
+ "payments": {
+  "successPageId": "p_paid",
+  "failurePageId": "p_failed"
+ },
+ "globals": {
+  "header": [
+   {
+    "id": "sc9e39c0",
+    "type": "section",
+    "props": {
+     "cols": 3,
+     "valign": "center",
+     "padTop": 14,
+     "padBottom": 14,
+     "width": "wide"
+    },
+    "items": [
+     {
+      "id": "edj18052",
+      "type": "logo",
+      "props": {},
+      "style": {},
+      "span": 1
+     },
+     {
+      "id": "e0r8rf7d",
+      "type": "nav",
+      "props": {},
+      "style": {
+       "align": "center"
+      },
+      "span": 1
+     },
+     {
+      "id": "e06i66pl",
+      "type": "button",
+      "props": {
+       "label": "Let’s Talk",
+       "href": "page:p_contact",
+       "variant": "primary"
+      },
+      "style": {
+       "align": "right"
+      },
+      "span": 1
+     }
+    ]
+   }
+  ],
+  "footer": [
+   {
+    "id": "sj4rr7re",
+    "type": "section",
+    "props": {
+     "cols": 4,
+     "ct": 2,
+     "padTop": 56,
+     "padBottom": 28
+    },
+    "items": [
+     {
+      "id": "ep16kv2d",
+      "type": "text",
+      "props": {
+       "html": "<p><strong style=\"font-size:1.2em\">Webfiver</strong></p><p>Build Smarter. Grow Faster.</p><p>Webfiver by Kalpesh Goswami provides digital services, trading technology solutions, professional branding services, and skill-based learning resources.</p>"
+      },
+      "style": {},
+      "span": 2
+     },
+     {
+      "id": "ebr98886",
+      "type": "text",
+      "props": {
+       "html": "<p><strong>Explore</strong></p><p><a href=\"page:p_home\">Home</a><br><a href=\"page:p_services\">Services</a><br><a href=\"page:p_trading\">Trading Tools</a><br><a href=\"page:p_courses\">Courses</a><br><a href=\"page:p_portfolio\">Portfolio</a></p>"
+      },
+      "style": {},
+      "span": 1
+     },
+     {
+      "id": "eiwtu9nh",
+      "type": "text",
+      "props": {
+       "html": "<p><strong>Information</strong></p><p><a href=\"page:p_about\">About</a><br><a href=\"page:p_contact\">Contact</a><br><a href=\"page:p_privacy\">Privacy Policy</a><br><a href=\"page:p_terms\">Terms &amp; Conditions</a><br><a href=\"page:p_refund\">Refund Policy</a></p>"
+      },
+      "style": {},
+      "span": 1
+     },
+     {
+      "id": "e36flf86",
+      "type": "text",
+      "props": {
+       "html": "<p>© 2026 Webfiver. All rights reserved.</p>"
+      },
+      "style": {
+       "size": 13,
+       "align": "center"
+      },
+      "span": 4
+     }
+    ]
+   }
+  ]
+ },
+ "pages": [
+  {
+   "id": "p_home",
+   "title": "Home",
+   "slug": "home",
+   "navLabel": "Home",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Webfiver | Website Development, Trading Tools & Digital Services",
+    "description": "Webfiver by Kalpesh Goswami offers professional website development, trading tools, ATS-friendly resumes, content writing, LinkedIn profile management, and practical online courses."
+   },
+   "sections": [
+    {
+     "id": "svyir76x",
+     "type": "section",
+     "props": {
+      "cols": 2,
+      "width": "narrow",
+      "padTop": 130,
+      "padBottom": 100,
+      "bg": {
+       "type": "glow"
+      }
+     },
+     "items": [
+      {
+       "id": "ehhm4qop",
+       "type": "text",
+       "props": {
+        "html": "<p>DIGITAL SOLUTIONS • TRADING TECHNOLOGY • CAREER GROWTH</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 2
+      },
+      {
+       "id": "enar0e3c",
+       "type": "heading",
+       "props": {
+        "html": "Build Your Digital Presence. <span style=\"color:var(--secondary)\">Trade Smarter.</span> Grow Your Skills.",
+        "level": 1
+       },
+       "style": {
+        "align": "center",
+        "anim": "up",
+        "font": "Space Grotesk"
+       },
+       "span": 2
+      },
+      {
+       "id": "eyry51m9",
+       "type": "text",
+       "props": {
+        "html": "<p>From professional websites and custom trading tools to career-building services and practical online courses — Webfiver helps turn your ideas into digital solutions.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 2
+      },
+      {
+       "id": "e28zhg9k",
+       "type": "button",
+       "props": {
+        "label": "Explore Services ↗",
+        "href": "page:p_services",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "right"
+       },
+       "span": 1
+      },
+      {
+       "id": "exqseicl",
+       "type": "button",
+       "props": {
+        "label": "View Courses",
+        "href": "page:p_courses",
+        "variant": "secondary"
+       },
+       "style": {
+        "align": "left"
+       },
+       "span": 1
+      },
+      {
+       "id": "ext6geca",
+       "type": "text",
+       "props": {
+        "html": "<p>Created by Kalpesh Goswami · Independent Digital Creator</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 2
+      },
+      {
+       "id": "ebsx3kr6",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver is a digital services and learning platform founded by Kalpesh Goswami. We help individuals, professionals, creators, and businesses establish a strong online presence through website development, custom trading tools, professional resume writing, content creation, LinkedIn services, and skill-based online courses.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 2
+      }
+     ]
+    },
+    {
+     "id": "sgve6e88",
+     "type": "section",
+     "props": {
+      "cols": 5,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "eu5odn8l",
+       "type": "heading",
+       "props": {
+        "html": "One Platform. Multiple Ways to Grow.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 5
+      },
+      {
+       "id": "e13rndbb",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💻",
+        "title": "Web Development",
+        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ewxfj843",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📊",
+        "title": "Trading Technology",
+        "desc": "<p>Custom trading tools and dashboards designed around your workflow.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ef00ege6",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "Career Services",
+        "desc": "<p>ATS-friendly resumes and LinkedIn profile optimization.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e2rh5q0q",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "✍️",
+        "title": "Content & Branding",
+        "desc": "<p>Strategic content writing and LinkedIn management.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "en6cbcrs",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🎓",
+        "title": "Online Learning",
+        "desc": "<p>Practical courses in digital marketing, AI, English speaking, and content writing.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "salwejdt",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "egcekf23",
+       "type": "text",
+       "props": {
+        "html": "<p>WHAT WE DO</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "ev5sr4zt",
+       "type": "heading",
+       "props": {
+        "html": "Digital Services Designed Around Your Goals",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "exa61nee",
+       "type": "text",
+       "props": {
+        "html": "<p>At Webfiver, we combine website development, trading technology, career services, and content solutions to help you build, improve, and grow your digital presence.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "el5fexjt",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💻",
+        "title": "Website Development",
+        "price": "Starting at ₹4,999",
+        "desc": "<p>Get a professional, mobile-friendly website that presents your brand, showcases your services, and turns visitors into potential customers.</p>",
+        "features": "Personal portfolio websites\nBusiness and service websites\nLanding pages and lead-generation websites\nWebsite redesign and UI improvements\nCustom web applications and dashboards",
+        "btnLabel": "Get Your Website →",
+        "href": "page:p_web"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "epxz2rok",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📈",
+        "title": "Custom Trading Tools",
+        "price": "Starting at ₹2,999",
+        "desc": "<p>Turn your trading ideas into practical digital tools. Build custom dashboards and analysis utilities around your trading workflow.</p>",
+        "features": "Trading dashboards and stock scanners\nOptions chain analysis tools\nMarket data visualization\nPine Script indicators and strategies\nCustom trading calculators and web apps",
+        "btnLabel": "Build My Trading Tool →",
+        "href": "page:p_trading"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eujvr4e6",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "ATS-Friendly Resume Writing",
+        "price": "Starting at ₹799",
+        "desc": "<p>Present your skills, experience, and achievements in a recruiter-friendly resume with clear formatting and relevant keywords.</p>",
+        "features": "ATS-friendly resume creation\nExisting resume redesign\nProfessional summary and skills optimization\nJob-description keyword alignment\nLinkedIn and resume consistency review",
+        "btnLabel": "Upgrade My Resume →",
+        "href": "page:p_resume"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ec3bv6am",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "✍️",
+        "title": "Content Writing",
+        "price": "Starting at ₹499",
+        "desc": "<p>Communicate your value with clear, engaging content that supports your brand, audience, and business goals.</p>",
+        "features": "Website and landing-page copy\nSEO-friendly blog articles\nSocial media captions and posts\nProduct and service descriptions\nAEO-friendly FAQs and informational content",
+        "btnLabel": "Get Content Written →",
+        "href": "page:p_content"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "es4f0jcq",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Profile Revamp",
+        "price": "Starting at ₹1,499",
+        "desc": "<p>Turn your LinkedIn profile into a professional personal-brand page that clearly communicates who you are, what you do, and how you help.</p>",
+        "features": "Profile headline optimization\nAbout section rewriting\nExperience and skills improvement\nFeatured section recommendations\nKeyword optimization for relevant searches",
+        "btnLabel": "Revamp My Profile →",
+        "href": "page:p_lirevamp"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eug361hc",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Management",
+        "price": "Starting at ₹5,999/month",
+        "desc": "<p>Maintain a consistent professional presence with content planning, post creation, and profile activity support.</p>",
+        "features": "Monthly content calendar\nLinkedIn post writing\nContent publishing coordination\nProfile positioning and brand consistency\nMonthly performance review",
+        "btnLabel": "Grow My LinkedIn Presence →",
+        "href": "page:p_limanage"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e362jcis",
+       "type": "text",
+       "props": {
+        "html": "<p>Pricing note: All prices are suggested starting rates in INR. Final pricing depends on scope, complexity, revisions, integrations, and delivery requirements.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "szi5q567",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "efhzs0fx",
+       "type": "text",
+       "props": {
+        "html": "<p>TRADING TOOLS</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "ectoyyk2",
+       "type": "heading",
+       "props": {
+        "html": "Your Trading Ideas. Turned Into Powerful Tools.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "efd27al7",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver builds custom trading tools for traders who want to organize market data, analyze trading conditions, and improve their research workflow. From custom stock scanners to options chain dashboards and Pine Script indicators, each project is planned around your specific requirements.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "ea20l23d",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧮",
+        "title": "Trading calculator or small utility",
+        "price": "₹2,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e3m2jrnf",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📉",
+        "title": "Pine Script indicator",
+        "price": "₹3,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e4sh30a9",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔎",
+        "title": "Custom stock scanner",
+        "price": "₹7,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ejwhxo1t",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📊",
+        "title": "Options chain analysis dashboard",
+        "price": "₹14,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eavje3m0",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🚀",
+        "title": "Advanced trading web application",
+        "price": "₹24,999+"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "emo3o71y",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💬",
+        "title": "Discuss Your Trading Tool",
+        "desc": "<p>Tell me what you need and let’s plan it together.</p>",
+        "btnLabel": "Discuss Your Trading Tool",
+        "href": "page:p_contact",
+        "btnVariant": "primary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e9914jbw",
+       "type": "text",
+       "props": {
+        "html": "<p>Suggested starting prices. Market data subscriptions, broker API access, hosting, and paid data feeds are separate where applicable. Tools support analysis and workflow; they do not guarantee trading profits.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "sa0o673k",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "e3y8zky7",
+       "type": "text",
+       "props": {
+        "html": "<p>WEBSITE DEVELOPMENT PACKAGES</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "ebby241t",
+       "type": "heading",
+       "props": {
+        "html": "Choose Your Website Package",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "ez3r87k8",
+       "type": "text",
+       "props": {
+        "html": "<p>Suggested pricing · INR · One-time project fees</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "epcz457z",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Starter Website",
+        "price": "₹4,999",
+        "desc": "<p>Ideal for freelancers and individuals launching their online presence.</p>",
+        "features": "Up to 3 pages\nResponsive design\nContact form or WhatsApp link\nBasic on-page SEO setup\n2 revision rounds",
+        "btnLabel": "Get Starter",
+        "href": "page:p_contact",
+        "btnVariant": "secondary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "egl1zz60",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Business Website",
+        "price": "₹11,999",
+        "badge": "Recommended",
+        "featured": true,
+        "desc": "<p>For businesses that need a stronger online presence.</p>",
+        "features": "Up to 7 pages\nPremium UI with glassmorphism options\nContact and lead-generation forms\nOn-page SEO fundamentals\nBasic speed and mobile optimization\n3 revision rounds",
+        "btnLabel": "Get Business",
+        "href": "page:p_contact",
+        "btnVariant": "primary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ehexlcnp",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Custom Web App",
+        "price": "Starting at ₹24,999",
+        "desc": "<p>For businesses that need functionality beyond a standard website.</p>",
+        "features": "Custom UI/UX\nInteractive dashboards and workflows\nAPI or database integration as scoped\nAuthentication where required\nTesting and deployment assistance",
+        "btnLabel": "Discuss Project",
+        "href": "page:p_contact",
+        "btnVariant": "secondary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eslfmb1s",
+       "type": "text",
+       "props": {
+        "html": "<p>Domain, hosting, paid third-party APIs, subscriptions, and ongoing maintenance are charged separately unless explicitly included in a proposal.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "srtf5lxu",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "el3qxzos",
+       "type": "text",
+       "props": {
+        "html": "<p>LEARN. PRACTICE. GROW.</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 4
+      },
+      {
+       "id": "emgprtgm",
+       "type": "heading",
+       "props": {
+        "html": "Learn Skills That Move You Forward",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ei49wk16",
+       "type": "text",
+       "props": {
+        "html": "<p>Explore practical online courses designed to help you develop digital skills, communicate with confidence, create better content, and understand emerging technologies. Webfiver courses are designed for beginners and learners who want structured guidance and practical knowledge.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ek83bm3z",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📣",
+        "title": "Digital Marketing Fundamentals",
+        "price": "₹1,499",
+        "desc": "<p>Learn SEO basics, social media marketing, content strategy, audience targeting, and digital campaign fundamentals.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "efa1n9ow",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🤖",
+        "title": "AI Tools for Everyday Work",
+        "price": "₹999",
+        "desc": "<p>Learn to use AI tools for research, productivity, brainstorming, content creation, and everyday workflows.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ee364nfk",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🗣️",
+        "title": "English Speaking & Communication",
+        "price": "₹1,499",
+        "desc": "<p>Practice everyday English, sentence formation, vocabulary, conversation, and professional communication.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e1mbi8zt",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📝",
+        "title": "Content Writing Masterclass",
+        "price": "₹999",
+        "desc": "<p>Learn content structure, copywriting basics, blog writing, SEO writing, and clear communication.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e3s6sk91",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🎁",
+        "title": "Webfiver Digital Skills Bundle",
+        "price": "₹3,499",
+        "badge": "Bundle",
+        "featured": true,
+        "desc": "<p>All four course categories for ₹3,499, compared with ₹4,996 when purchased separately.</p>",
+        "btnLabel": "Enroll in Bundle →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 4
+      },
+      {
+       "id": "euob9d3x",
+       "type": "text",
+       "props": {
+        "html": "<p>Publish this offer only when all four courses are available and the included access period and materials are clearly specified. Define the curriculum, delivery method, access period, support, refund policy, and any certificates actually provided.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "semogemh",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e1bymiw5",
+       "type": "heading",
+       "props": {
+        "html": "One Brand. Multiple Digital Solutions.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "eue8bhg6",
+       "type": "text",
+       "props": {
+        "html": "<p>Instead of coordinating multiple providers, you can discuss your website, content, trading tool, or career branding requirements with one digital creator.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ekj24jy5",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🎯",
+        "title": "Goal-oriented solutions",
+        "desc": "<p>Every project begins with understanding your objectives, audience, and requirements.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "exv0yfhp",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧩",
+        "title": "Custom-built experiences",
+        "desc": "<p>Solutions are planned around your use case rather than forcing every project into the same template.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e05uh0r7",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔍",
+        "title": "Search-friendly content",
+        "desc": "<p>Website structure and copy can be developed with SEO, useful answers, and clear information architecture in mind.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "etfuz94x",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💬",
+        "title": "Direct communication",
+        "desc": "<p>Discuss requirements, timelines, revisions, and project scope before committing.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s2pa9n8x",
+     "type": "section",
+     "props": {
+      "cols": 3,
+      "valign": "center",
+      "panel": true
+     },
+     "items": [
+      {
+       "id": "ecr4v3x3",
+       "type": "image",
+       "props": {
+        "src": "",
+        "alt": "Kalpesh Goswami",
+        "ratio": "4:5",
+        "radius": 24,
+        "shadow": "soft",
+        "fit": "cover",
+        "fx": 50,
+        "fy": 30
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ecef4mmf",
+       "type": "text",
+       "props": {
+        "html": "<p style=\"color:var(--secondary)\"><strong>MEET THE CREATOR BEHIND WEBFIVER</strong></p><h2>Hi, I’m Kalpesh Goswami</h2><p>A web developer, intraday trader, and trading tool creator with an interest in building useful digital products and helping people grow professionally.</p><p>I bring together my interests in web development, financial market technology, personal branding, content creation, and digital education through Webfiver.</p><p>My goal is to help individuals and businesses turn ideas into practical digital solutions — whether that’s a professional website, a custom trading dashboard, a stronger LinkedIn profile, a polished resume, or a new skill.</p><p>Webfiver represents my approach to digital work: understand the problem, build a practical solution, and keep improving.</p><p><strong>My focus areas:</strong> Website and web application development; custom trading tools and Pine Script; professional resumes and LinkedIn branding; SEO-friendly content writing; digital skills and online learning.</p>"
+       },
+       "style": {},
+       "span": 2
+      },
+      {
+       "id": "ehz9ptwl",
+       "type": "button",
+       "props": {
+        "label": "Work With Me",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {},
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "smrlezhr",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "ezj76ii6",
+       "type": "heading",
+       "props": {
+        "html": "Ideas in Progress. Solutions in Practice.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "e0knhdua",
+       "type": "text",
+       "props": {
+        "html": "<p>Explore selected projects that demonstrate my approach to website design, web development, and trading technology.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ezcl0dhk",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🌐",
+        "title": "Web Design",
+        "desc": "<p>Landing pages, business websites, and personal portfolios.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "euw9bg67",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧱",
+        "title": "Web Applications",
+        "desc": "<p>Custom dashboards, tools, and interactive workflows.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ekt4eyc2",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📈",
+        "title": "Trading Technology",
+        "desc": "<p>Stock scanners, options chain analysis, and trading utilities.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e8bm11hn",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🪪",
+        "title": "Personal Branding",
+        "desc": "<p>Resume layouts, LinkedIn profiles, and content samples.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ec91kaa2",
+       "type": "text",
+       "props": {
+        "html": "<p>For every project add an image, title, problem solved, key features, technologies used, and a live demo or case-study link. Only publish real projects — if it is your own product, label it as a personal project.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "s0jblkaw",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "ei9wov94",
+       "type": "heading",
+       "props": {
+        "html": "From Idea to Delivery in Four Steps",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ek8fozxr",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "01",
+        "title": "Share your requirements",
+        "desc": "<p>Tell me about your project, goals, budget, and preferred timeline.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e5he4d64",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "02",
+        "title": "Get a project proposal",
+        "desc": "<p>Receive the proposed scope, deliverables, pricing, milestones, and timeline.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e8smrjrf",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "03",
+        "title": "Build and review",
+        "desc": "<p>Work through the agreed process, review the deliverables, and provide feedback within the revision limits.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "en4y1ors",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "04",
+        "title": "Final delivery",
+        "desc": "<p>Receive the agreed files, website, tool, content, or other deliverables, with handover instructions where applicable.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "sx59jgm1",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow"
+     },
+     "items": [
+      {
+       "id": "e1mb6154",
+       "type": "text",
+       "props": {
+        "html": "<p>FAQ</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 1
+      },
+      {
+       "id": "eps3f1n0",
+       "type": "heading",
+       "props": {
+        "html": "Frequently Asked Questions",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "egl2piom",
+       "type": "faq",
+       "props": {
+        "items": [
+         {
+          "q": "What services does Webfiver offer?",
+          "a": "<p>Webfiver offers website development, custom trading tools, ATS-friendly resume writing, content writing, LinkedIn profile revamping, LinkedIn management, and online courses in digital marketing, AI, English speaking, and content writing.</p>"
+         },
+         {
+          "q": "How much does it cost to build a website with Webfiver?",
+          "a": "<p>Website development at Webfiver starts at ₹4,999 for a basic website. Business websites start at ₹11,999, while custom web applications start at ₹24,999. Final prices depend on project requirements.</p>"
+         },
+         {
+          "q": "Can Webfiver build custom trading tools?",
+          "a": "<p>Yes. Webfiver can develop custom trading dashboards, stock scanners, options chain analysis tools, trading calculators, and Pine Script indicators based on the agreed requirements and available data sources.</p>"
+         },
+         {
+          "q": "Does Webfiver provide ATS-friendly resumes?",
+          "a": "<p>Yes. Webfiver offers resume creation, resume redesign, keyword optimization, and job-description alignment to help candidates present their qualifications clearly in recruiter-friendly formats.</p>"
+         },
+         {
+          "q": "What is a LinkedIn profile revamp?",
+          "a": "<p>A LinkedIn profile revamp improves your headline, About section, experience descriptions, skills, and relevant keywords to communicate your professional value more effectively.</p>"
+         },
+         {
+          "q": "Does Webfiver manage LinkedIn accounts?",
+          "a": "<p>Webfiver offers LinkedIn content planning, post writing, publishing coordination, and profile positioning support. Exact deliverables depend on the selected package.</p>"
+         },
+         {
+          "q": "Which online courses does Webfiver offer?",
+          "a": "<p>The proposed course categories include digital marketing, AI tools, English speaking and communication, and content writing. Course availability, syllabus, and enrollment details should be confirmed on the relevant course page.</p>"
+         },
+         {
+          "q": "Are Webfiver’s services suitable for beginners?",
+          "a": "<p>Yes. Beginners, freelancers, job seekers, creators, and businesses can discuss their requirements and choose a suitable service or course.</p>"
+         },
+         {
+          "q": "How can I hire Webfiver?",
+          "a": "<p>You can contact Kalpesh Goswami through the website’s contact form, email, or WhatsApp once those contact details are added. Share your requirements to receive a suitable proposal.</p>"
+         },
+         {
+          "q": "Does Webfiver guarantee Google rankings, jobs, or trading profits?",
+          "a": "<p>No. SEO results, hiring outcomes, and financial market results cannot be guaranteed. Webfiver focuses on delivering the agreed services and tools without promising specific external outcomes.</p>"
+         }
+        ]
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s1ovbffm",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "e6ua1xhb",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "edf0ycuq",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e39ebaq4",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_services",
+   "title": "Services",
+   "slug": "services",
+   "navLabel": "Services",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Digital Services | Webfiver",
+    "description": "Website development, ATS-friendly resumes, content writing and LinkedIn services by Webfiver."
+   },
+   "sections": [
+    {
+     "id": "sftn0lwl",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "emc01fj6",
+       "type": "heading",
+       "props": {
+        "html": "Services",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e6kqs3kh",
+       "type": "text",
+       "props": {
+        "html": "<p>Website development, trading tools, career services and content solutions.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "syi7dhzq",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "ea2pzcoy",
+       "type": "text",
+       "props": {
+        "html": "<p>WHAT WE DO</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "emz59h5z",
+       "type": "heading",
+       "props": {
+        "html": "Digital Services Designed Around Your Goals",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "ef6jrm96",
+       "type": "text",
+       "props": {
+        "html": "<p>At Webfiver, we combine website development, trading technology, career services, and content solutions to help you build, improve, and grow your digital presence.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "e5e1j82g",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💻",
+        "title": "Website Development",
+        "price": "Starting at ₹4,999",
+        "desc": "<p>Get a professional, mobile-friendly website that presents your brand, showcases your services, and turns visitors into potential customers.</p>",
+        "features": "Personal portfolio websites\nBusiness and service websites\nLanding pages and lead-generation websites\nWebsite redesign and UI improvements\nCustom web applications and dashboards",
+        "btnLabel": "Get Your Website →",
+        "href": "page:p_web"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e16jhfry",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📈",
+        "title": "Custom Trading Tools",
+        "price": "Starting at ₹2,999",
+        "desc": "<p>Turn your trading ideas into practical digital tools. Build custom dashboards and analysis utilities around your trading workflow.</p>",
+        "features": "Trading dashboards and stock scanners\nOptions chain analysis tools\nMarket data visualization\nPine Script indicators and strategies\nCustom trading calculators and web apps",
+        "btnLabel": "Build My Trading Tool →",
+        "href": "page:p_trading"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e5a8fh9s",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "ATS-Friendly Resume Writing",
+        "price": "Starting at ₹799",
+        "desc": "<p>Present your skills, experience, and achievements in a recruiter-friendly resume with clear formatting and relevant keywords.</p>",
+        "features": "ATS-friendly resume creation\nExisting resume redesign\nProfessional summary and skills optimization\nJob-description keyword alignment\nLinkedIn and resume consistency review",
+        "btnLabel": "Upgrade My Resume →",
+        "href": "page:p_resume"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "edv7nrx3",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "✍️",
+        "title": "Content Writing",
+        "price": "Starting at ₹499",
+        "desc": "<p>Communicate your value with clear, engaging content that supports your brand, audience, and business goals.</p>",
+        "features": "Website and landing-page copy\nSEO-friendly blog articles\nSocial media captions and posts\nProduct and service descriptions\nAEO-friendly FAQs and informational content",
+        "btnLabel": "Get Content Written →",
+        "href": "page:p_content"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e1u88nzv",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Profile Revamp",
+        "price": "Starting at ₹1,499",
+        "desc": "<p>Turn your LinkedIn profile into a professional personal-brand page that clearly communicates who you are, what you do, and how you help.</p>",
+        "features": "Profile headline optimization\nAbout section rewriting\nExperience and skills improvement\nFeatured section recommendations\nKeyword optimization for relevant searches",
+        "btnLabel": "Revamp My Profile →",
+        "href": "page:p_lirevamp"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e1ceidbc",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Management",
+        "price": "Starting at ₹5,999/month",
+        "desc": "<p>Maintain a consistent professional presence with content planning, post creation, and profile activity support.</p>",
+        "features": "Monthly content calendar\nLinkedIn post writing\nContent publishing coordination\nProfile positioning and brand consistency\nMonthly performance review",
+        "btnLabel": "Grow My LinkedIn Presence →",
+        "href": "page:p_limanage"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ex2otngr",
+       "type": "text",
+       "props": {
+        "html": "<p>Pricing note: All prices are suggested starting rates in INR. Final pricing depends on scope, complexity, revisions, integrations, and delivery requirements.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "sri1klnk",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e4wfv16i",
+       "type": "heading",
+       "props": {
+        "html": "Make Your Professional Profile Work for You.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "e6dz9cvw",
+       "type": "text",
+       "props": {
+        "html": "<p>Your resume and LinkedIn profile are often the first impression you make online. Webfiver helps you communicate your experience, skills, and professional value with clarity.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "e1tdsrwr",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "Resume Starter",
+        "price": "₹799",
+        "desc": "<p>ATS-friendly formatting, professional summary, and skills presentation.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e30dg1xy",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📑",
+        "title": "Resume Pro",
+        "price": "₹1,499",
+        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ejc12bi0",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Revamp",
+        "price": "₹1,499",
+        "desc": "<p>Headline, About section, experience wording, keywords, and profile recommendations.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ecwb0g0t",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Growth Support",
+        "price": "₹5,999/month",
+        "desc": "<p>Content planning and up to 12 posts per month, with publishing coordination and a monthly review.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eq4uyd5b",
+       "type": "button",
+       "props": {
+        "label": "Improve My Professional Brand",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "sg9udg1m",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "exbi8gxs",
+       "type": "heading",
+       "props": {
+        "html": "Content Writing Packages",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "er6p36ay",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "✏️",
+        "title": "Quick Copy",
+        "price": "₹499",
+        "desc": "<p>Up to 500 words</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eq4uu6xx",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🌐",
+        "title": "Website Copy",
+        "price": "₹2,999",
+        "desc": "<p>Up to 5 pages, subject to scope</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eibkz4k2",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔍",
+        "title": "SEO Blog",
+        "price": "₹999",
+        "desc": "<p>One article up to 1,000 words</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ee17r5n4",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📣",
+        "title": "Content Bundle",
+        "price": "₹1,999",
+        "desc": "<p>8 social media posts</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e6ejwkce",
+       "type": "text",
+       "props": {
+        "html": "<p>Each project should define its deliverables, research requirements, revision limits, and publishing responsibilities before work begins.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "evg11fks",
+       "type": "button",
+       "props": {
+        "label": "Request Content Writing",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "sh9dplx0",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "euhmnoym",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e8iaj8o2",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "eirj94h3",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_web",
+   "title": "Website Development",
+   "slug": "website-development",
+   "navLabel": "Website Development",
+   "inNav": true,
+   "visible": true,
+   "parent": "p_services",
+   "landing": false,
+   "seo": {
+    "title": "Website Development Services | Webfiver",
+    "description": "Professional website development from ₹4,999: portfolio sites, business websites, landing pages and custom web apps."
+   },
+   "sections": [
+    {
+     "id": "sakw9r1e",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "emabflna",
+       "type": "heading",
+       "props": {
+        "html": "Website Development",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e8r0q3pe",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver builds professional, mobile-friendly websites starting at ₹4,999 — from personal portfolios to custom web applications.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s5l9pgs8",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "ett5meu3",
+       "type": "text",
+       "props": {
+        "html": "<p>WEBSITE DEVELOPMENT PACKAGES</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "ep79dmgn",
+       "type": "heading",
+       "props": {
+        "html": "Choose Your Website Package",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "ed8tu1k4",
+       "type": "text",
+       "props": {
+        "html": "<p>Suggested pricing · INR · One-time project fees</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "esd5kogw",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Starter Website",
+        "price": "₹4,999",
+        "desc": "<p>Ideal for freelancers and individuals launching their online presence.</p>",
+        "features": "Up to 3 pages\nResponsive design\nContact form or WhatsApp link\nBasic on-page SEO setup\n2 revision rounds",
+        "btnLabel": "Get Starter",
+        "href": "page:p_contact",
+        "btnVariant": "secondary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eiw7hoyo",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Business Website",
+        "price": "₹11,999",
+        "badge": "Recommended",
+        "featured": true,
+        "desc": "<p>For businesses that need a stronger online presence.</p>",
+        "features": "Up to 7 pages\nPremium UI with glassmorphism options\nContact and lead-generation forms\nOn-page SEO fundamentals\nBasic speed and mobile optimization\n3 revision rounds",
+        "btnLabel": "Get Business",
+        "href": "page:p_contact",
+        "btnVariant": "primary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eodqoso6",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "title": "Custom Web App",
+        "price": "Starting at ₹24,999",
+        "desc": "<p>For businesses that need functionality beyond a standard website.</p>",
+        "features": "Custom UI/UX\nInteractive dashboards and workflows\nAPI or database integration as scoped\nAuthentication where required\nTesting and deployment assistance",
+        "btnLabel": "Discuss Project",
+        "href": "page:p_contact",
+        "btnVariant": "secondary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e8pnwic3",
+       "type": "text",
+       "props": {
+        "html": "<p>Domain, hosting, paid third-party APIs, subscriptions, and ongoing maintenance are charged separately unless explicitly included in a proposal.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "sosjf9xt",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "e544whmt",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "ecweesez",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "ep6f3p68",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_resume",
+   "title": "ATS-Friendly Resume Writing",
+   "slug": "resume-writing",
+   "navLabel": "ATS-Friendly Resume Writing",
+   "inNav": true,
+   "visible": true,
+   "parent": "p_services",
+   "landing": false,
+   "seo": {
+    "title": "ATS-Friendly Resume Writing | Webfiver",
+    "description": "ATS-friendly resume creation, redesign and keyword optimization starting at ₹799."
+   },
+   "sections": [
+    {
+     "id": "sucu60cf",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "e7y6ia4h",
+       "type": "heading",
+       "props": {
+        "html": "ATS-Friendly Resume Writing",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e1xf8s6v",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver writes ATS-friendly resumes starting at ₹799, with clear formatting, relevant keywords and alignment to your target job.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "swt3x3m1",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "efaau1yx",
+       "type": "heading",
+       "props": {
+        "html": "Make Your Professional Profile Work for You.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ejlvv0ul",
+       "type": "text",
+       "props": {
+        "html": "<p>Your resume and LinkedIn profile are often the first impression you make online. Webfiver helps you communicate your experience, skills, and professional value with clarity.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "er1biyl2",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "Resume Starter",
+        "price": "₹799",
+        "desc": "<p>ATS-friendly formatting, professional summary, and skills presentation.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ej9fjk87",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📑",
+        "title": "Resume Pro",
+        "price": "₹1,499",
+        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "evvabjyk",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Revamp",
+        "price": "₹1,499",
+        "desc": "<p>Headline, About section, experience wording, keywords, and profile recommendations.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eugyr7dx",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Growth Support",
+        "price": "₹5,999/month",
+        "desc": "<p>Content planning and up to 12 posts per month, with publishing coordination and a monthly review.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "equf3qvp",
+       "type": "button",
+       "props": {
+        "label": "Improve My Professional Brand",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "so8pl0uz",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "efxpqoyu",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e4wrnl4q",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "ekxa71ug",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_content",
+   "title": "Content Writing",
+   "slug": "content-writing",
+   "navLabel": "Content Writing",
+   "inNav": true,
+   "visible": true,
+   "parent": "p_services",
+   "landing": false,
+   "seo": {
+    "title": "SEO Content Writing Services | Webfiver",
+    "description": "Website copy, SEO blog articles and social media content writing starting at ₹499."
+   },
+   "sections": [
+    {
+     "id": "s4o93jup",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "e2rnrt06",
+       "type": "heading",
+       "props": {
+        "html": "Content Writing",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e8i54ud8",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver writes website copy, SEO blog articles and social media content starting at ₹499.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s5735psm",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e4i0d1lb",
+       "type": "heading",
+       "props": {
+        "html": "Content Writing Packages",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ew4mu9e2",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "✏️",
+        "title": "Quick Copy",
+        "price": "₹499",
+        "desc": "<p>Up to 500 words</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ef5hcoma",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🌐",
+        "title": "Website Copy",
+        "price": "₹2,999",
+        "desc": "<p>Up to 5 pages, subject to scope</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "egwu0qr5",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔍",
+        "title": "SEO Blog",
+        "price": "₹999",
+        "desc": "<p>One article up to 1,000 words</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ep30tasv",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📣",
+        "title": "Content Bundle",
+        "price": "₹1,999",
+        "desc": "<p>8 social media posts</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "er924911",
+       "type": "text",
+       "props": {
+        "html": "<p>Each project should define its deliverables, research requirements, revision limits, and publishing responsibilities before work begins.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "eayz673k",
+       "type": "button",
+       "props": {
+        "label": "Request Content Writing",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "sgcgf5r7",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "ecumiwqa",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "esj6m1jq",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "el6chcks",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_lirevamp",
+   "title": "LinkedIn Profile Revamp",
+   "slug": "linkedin-revamp",
+   "navLabel": "LinkedIn Profile Revamp",
+   "inNav": true,
+   "visible": true,
+   "parent": "p_services",
+   "landing": false,
+   "seo": {
+    "title": "LinkedIn Profile Optimization | Webfiver",
+    "description": "LinkedIn headline, About section, experience and keyword optimization starting at ₹1,499."
+   },
+   "sections": [
+    {
+     "id": "slo6i34a",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "elfdsb03",
+       "type": "heading",
+       "props": {
+        "html": "LinkedIn Profile Revamp",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "ed37mndk",
+       "type": "text",
+       "props": {
+        "html": "<p>A LinkedIn profile revamp (from ₹1,499) improves your headline, About section, experience descriptions, skills and keywords.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "sa2ol8t2",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e44ykw24",
+       "type": "heading",
+       "props": {
+        "html": "Make Your Professional Profile Work for You.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "e14nsweq",
+       "type": "text",
+       "props": {
+        "html": "<p>Your resume and LinkedIn profile are often the first impression you make online. Webfiver helps you communicate your experience, skills, and professional value with clarity.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "evq6or8r",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "Resume Starter",
+        "price": "₹799",
+        "desc": "<p>ATS-friendly formatting, professional summary, and skills presentation.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ejsvrpwq",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📑",
+        "title": "Resume Pro",
+        "price": "₹1,499",
+        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "efgki5jq",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Revamp",
+        "price": "₹1,499",
+        "desc": "<p>Headline, About section, experience wording, keywords, and profile recommendations.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eckc3c3x",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Growth Support",
+        "price": "₹5,999/month",
+        "desc": "<p>Content planning and up to 12 posts per month, with publishing coordination and a monthly review.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ecm54bfw",
+       "type": "button",
+       "props": {
+        "label": "Improve My Professional Brand",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "sls5h4yi",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "emoid6xt",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "es1m7c8e",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e9qj7vnc",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_limanage",
+   "title": "LinkedIn Management",
+   "slug": "linkedin-management",
+   "navLabel": "LinkedIn Management",
+   "inNav": true,
+   "visible": true,
+   "parent": "p_services",
+   "landing": false,
+   "seo": {
+    "title": "LinkedIn Content & Management | Webfiver",
+    "description": "Monthly LinkedIn content planning, post writing and profile positioning support."
+   },
+   "sections": [
+    {
+     "id": "synv1qhs",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "ehtrootf",
+       "type": "heading",
+       "props": {
+        "html": "LinkedIn Management",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "eys09us2",
+       "type": "text",
+       "props": {
+        "html": "<p>LinkedIn management (from ₹5,999/month) covers content planning, post writing, publishing coordination and a monthly review.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "soa83exr",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "ez57xc35",
+       "type": "heading",
+       "props": {
+        "html": "Make Your Professional Profile Work for You.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "euqi9xc5",
+       "type": "text",
+       "props": {
+        "html": "<p>Your resume and LinkedIn profile are often the first impression you make online. Webfiver helps you communicate your experience, skills, and professional value with clarity.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "esyxio12",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📄",
+        "title": "Resume Starter",
+        "price": "₹799",
+        "desc": "<p>ATS-friendly formatting, professional summary, and skills presentation.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e7sf3bp0",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📑",
+        "title": "Resume Pro",
+        "price": "₹1,499",
+        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e0tyw7cq",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💼",
+        "title": "LinkedIn Revamp",
+        "price": "₹1,499",
+        "desc": "<p>Headline, About section, experience wording, keywords, and profile recommendations.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ew61dayj",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📅",
+        "title": "LinkedIn Growth Support",
+        "price": "₹5,999/month",
+        "desc": "<p>Content planning and up to 12 posts per month, with publishing coordination and a monthly review.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ed3pzh5f",
+       "type": "button",
+       "props": {
+        "label": "Improve My Professional Brand",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "s5k8mmax",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "e4p479vn",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "evmuuvo0",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "er19z2ga",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_trading",
+   "title": "Trading Tools",
+   "slug": "trading-tools",
+   "navLabel": "Trading Tools",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Custom Trading Tools & Pine Script | Webfiver",
+    "description": "Custom stock scanners, options chain dashboards, trading calculators and Pine Script indicators."
+   },
+   "sections": [
+    {
+     "id": "s4eux4gz",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "eakmo9ew",
+       "type": "heading",
+       "props": {
+        "html": "Trading Tools",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "sa7go5ja",
+     "type": "section",
+     "props": {
+      "cols": 3
+     },
+     "items": [
+      {
+       "id": "eo5ka28x",
+       "type": "text",
+       "props": {
+        "html": "<p>TRADING TOOLS</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 3
+      },
+      {
+       "id": "efpf6ei5",
+       "type": "heading",
+       "props": {
+        "html": "Your Trading Ideas. Turned Into Powerful Tools.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "e1j1bt6c",
+       "type": "text",
+       "props": {
+        "html": "<p>Webfiver builds custom trading tools for traders who want to organize market data, analyze trading conditions, and improve their research workflow. From custom stock scanners to options chain dashboards and Pine Script indicators, each project is planned around your specific requirements.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      },
+      {
+       "id": "etsq3z4e",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧮",
+        "title": "Trading calculator or small utility",
+        "price": "₹2,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "epetlb1p",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📉",
+        "title": "Pine Script indicator",
+        "price": "₹3,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ewgmopyk",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔎",
+        "title": "Custom stock scanner",
+        "price": "₹7,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e8olo0y8",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📊",
+        "title": "Options chain analysis dashboard",
+        "price": "₹14,999"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ef8ra2sv",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🚀",
+        "title": "Advanced trading web application",
+        "price": "₹24,999+"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ey9vubwt",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💬",
+        "title": "Discuss Your Trading Tool",
+        "desc": "<p>Tell me what you need and let’s plan it together.</p>",
+        "btnLabel": "Discuss Your Trading Tool",
+        "href": "page:p_contact",
+        "btnVariant": "primary"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ewide26a",
+       "type": "text",
+       "props": {
+        "html": "<p>Suggested starting prices. Market data subscriptions, broker API access, hosting, and paid data feeds are separate where applicable. Tools support analysis and workflow; they do not guarantee trading profits.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "sqer4a2z",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "evs9xrpu",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "ersp3o41",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "eirt4kr6",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_courses",
+   "title": "Courses",
+   "slug": "courses",
+   "navLabel": "Courses",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Digital Marketing, AI & English Courses | Webfiver",
+    "description": "Practical online courses in digital marketing, AI tools, English speaking and content writing."
+   },
+   "sections": [
+    {
+     "id": "svyvgkpu",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "ex417rhr",
+       "type": "heading",
+       "props": {
+        "html": "Courses",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "shbk7d7p",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e4226053",
+       "type": "text",
+       "props": {
+        "html": "<p>LEARN. PRACTICE. GROW.</p>"
+       },
+       "style": {
+        "size": 13,
+        "weight": 600,
+        "ls": 2,
+        "tt": "uppercase",
+        "color": "var(--secondary)",
+        "align": "center",
+        "mb": -8
+       },
+       "span": 4
+      },
+      {
+       "id": "e9zzj88t",
+       "type": "heading",
+       "props": {
+        "html": "Learn Skills That Move You Forward",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ex5inqjb",
+       "type": "text",
+       "props": {
+        "html": "<p>Explore practical online courses designed to help you develop digital skills, communicate with confidence, create better content, and understand emerging technologies. Webfiver courses are designed for beginners and learners who want structured guidance and practical knowledge.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ee04hnle",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📣",
+        "title": "Digital Marketing Fundamentals",
+        "price": "₹1,499",
+        "desc": "<p>Learn SEO basics, social media marketing, content strategy, audience targeting, and digital campaign fundamentals.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "el8r1ole",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🤖",
+        "title": "AI Tools for Everyday Work",
+        "price": "₹999",
+        "desc": "<p>Learn to use AI tools for research, productivity, brainstorming, content creation, and everyday workflows.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "exy3vle3",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🗣️",
+        "title": "English Speaking & Communication",
+        "price": "₹1,499",
+        "desc": "<p>Practice everyday English, sentence formation, vocabulary, conversation, and professional communication.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e1f20442",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📝",
+        "title": "Content Writing Masterclass",
+        "price": "₹999",
+        "desc": "<p>Learn content structure, copywriting basics, blog writing, SEO writing, and clear communication.</p>",
+        "btnLabel": "Enroll Now →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e66wosrw",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🎁",
+        "title": "Webfiver Digital Skills Bundle",
+        "price": "₹3,499",
+        "badge": "Bundle",
+        "featured": true,
+        "desc": "<p>All four course categories for ₹3,499, compared with ₹4,996 when purchased separately.</p>",
+        "btnLabel": "Enroll in Bundle →",
+        "btnVariant": "primary",
+        "href": "page:p_contact",
+        "payLink": ""
+       },
+       "style": {},
+       "span": 4
+      },
+      {
+       "id": "eub5qyuc",
+       "type": "text",
+       "props": {
+        "html": "<p>Publish this offer only when all four courses are available and the included access period and materials are clearly specified. Define the curriculum, delivery method, access period, support, refund policy, and any certificates actually provided.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "s39d3qlx",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "e32b0ejj",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e0kime9c",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e2qb3pa6",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_about",
+   "title": "About",
+   "slug": "about",
+   "navLabel": "About",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "About Kalpesh Goswami | Webfiver",
+    "description": "Meet Kalpesh Goswami — web developer, intraday trader and trading tool creator behind Webfiver."
+   },
+   "sections": [
+    {
+     "id": "s1hgq69p",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "padTop": 40,
+      "padBottom": 0
+     },
+     "items": []
+    },
+    {
+     "id": "sc8vi3na",
+     "type": "section",
+     "props": {
+      "cols": 3,
+      "valign": "center",
+      "panel": true
+     },
+     "items": [
+      {
+       "id": "eeiufaxf",
+       "type": "image",
+       "props": {
+        "src": "",
+        "alt": "Kalpesh Goswami",
+        "ratio": "4:5",
+        "radius": 24,
+        "shadow": "soft",
+        "fit": "cover",
+        "fx": 50,
+        "fy": 30
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "epsap0uq",
+       "type": "text",
+       "props": {
+        "html": "<p style=\"color:var(--secondary)\"><strong>MEET THE CREATOR BEHIND WEBFIVER</strong></p><h2>Hi, I’m Kalpesh Goswami</h2><p>A web developer, intraday trader, and trading tool creator with an interest in building useful digital products and helping people grow professionally.</p><p>I bring together my interests in web development, financial market technology, personal branding, content creation, and digital education through Webfiver.</p><p>My goal is to help individuals and businesses turn ideas into practical digital solutions — whether that’s a professional website, a custom trading dashboard, a stronger LinkedIn profile, a polished resume, or a new skill.</p><p>Webfiver represents my approach to digital work: understand the problem, build a practical solution, and keep improving.</p><p><strong>My focus areas:</strong> Website and web application development; custom trading tools and Pine Script; professional resumes and LinkedIn branding; SEO-friendly content writing; digital skills and online learning.</p>"
+       },
+       "style": {},
+       "span": 2
+      },
+      {
+       "id": "ecjjhjd4",
+       "type": "button",
+       "props": {
+        "label": "Work With Me",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {},
+       "span": 3
+      }
+     ]
+    },
+    {
+     "id": "szqbwvnk",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "eee2mfl3",
+       "type": "heading",
+       "props": {
+        "html": "One Brand. Multiple Digital Solutions.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "epblrybl",
+       "type": "text",
+       "props": {
+        "html": "<p>Instead of coordinating multiple providers, you can discuss your website, content, trading tool, or career branding requirements with one digital creator.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "edajoey1",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🎯",
+        "title": "Goal-oriented solutions",
+        "desc": "<p>Every project begins with understanding your objectives, audience, and requirements.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "esm39qmg",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧩",
+        "title": "Custom-built experiences",
+        "desc": "<p>Solutions are planned around your use case rather than forcing every project into the same template.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "exhp83qe",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🔍",
+        "title": "Search-friendly content",
+        "desc": "<p>Website structure and copy can be developed with SEO, useful answers, and clear information architecture in mind.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ecxuhmww",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "💬",
+        "title": "Direct communication",
+        "desc": "<p>Discuss requirements, timelines, revisions, and project scope before committing.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s2o12hti",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "e1xnhv64",
+       "type": "heading",
+       "props": {
+        "html": "From Idea to Delivery in Four Steps",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "ejd38c2r",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "01",
+        "title": "Share your requirements",
+        "desc": "<p>Tell me about your project, goals, budget, and preferred timeline.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eb87waw0",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "02",
+        "title": "Get a project proposal",
+        "desc": "<p>Receive the proposed scope, deliverables, pricing, milestones, and timeline.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eemgn2k2",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "03",
+        "title": "Build and review",
+        "desc": "<p>Work through the agreed process, review the deliverables, and provide feedback within the revision limits.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ecix2t4u",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "04",
+        "title": "Final delivery",
+        "desc": "<p>Receive the agreed files, website, tool, content, or other deliverables, with handover instructions where applicable.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_portfolio",
+   "title": "Portfolio",
+   "slug": "portfolio",
+   "navLabel": "Portfolio",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Portfolio | Webfiver",
+    "description": "Selected website, web application and trading technology work by Webfiver."
+   },
+   "sections": [
+    {
+     "id": "sr4p4ef5",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120,
+      "padBottom": 20
+     },
+     "items": [
+      {
+       "id": "e760qyro",
+       "type": "heading",
+       "props": {
+        "html": "Portfolio",
+        "level": 1
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    },
+    {
+     "id": "s4b1r0v0",
+     "type": "section",
+     "props": {
+      "cols": 4,
+      "ct": 2
+     },
+     "items": [
+      {
+       "id": "ej8os6u8",
+       "type": "heading",
+       "props": {
+        "html": "Ideas in Progress. Solutions in Practice.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "et6y0v72",
+       "type": "text",
+       "props": {
+        "html": "<p>Explore selected projects that demonstrate my approach to website design, web development, and trading technology.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      },
+      {
+       "id": "e3lcwrei",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🌐",
+        "title": "Web Design",
+        "desc": "<p>Landing pages, business websites, and personal portfolios.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eqt4z1ux",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🧱",
+        "title": "Web Applications",
+        "desc": "<p>Custom dashboards, tools, and interactive workflows.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ez0wmz5p",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "📈",
+        "title": "Trading Technology",
+        "desc": "<p>Stock scanners, options chain analysis, and trading utilities.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "elo19z17",
+       "type": "card",
+       "props": {
+        "ratio": "16:9",
+        "icon": "🪪",
+        "title": "Personal Branding",
+        "desc": "<p>Resume layouts, LinkedIn profiles, and content samples.</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ewxrxl82",
+       "type": "text",
+       "props": {
+        "html": "<p>For every project add an image, title, problem solved, key features, technologies used, and a live demo or case-study link. Only publish real projects — if it is your own product, label it as a personal project.</p>"
+       },
+       "style": {
+        "size": 13,
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 4
+      }
+     ]
+    },
+    {
+     "id": "sceyd5oh",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "panel": true,
+      "bg": {
+       "type": "none"
+      },
+      "padBottom": 100
+     },
+     "items": [
+      {
+       "id": "eh2no0r2",
+       "type": "heading",
+       "props": {
+        "html": "Have an Idea? Let’s Build It Together.",
+        "level": 2
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "eyz57wbr",
+       "type": "text",
+       "props": {
+        "html": "<p>Whether you need a website, a custom trading tool, a professional profile, or a new skill, let’s turn your next idea into a practical plan. Tell me what you need. Let’s discuss the right solution for you.</p>"
+       },
+       "style": {
+        "color": "var(--muted)",
+        "align": "center"
+       },
+       "span": 1
+      },
+      {
+       "id": "e3mjz5ke",
+       "type": "button",
+       "props": {
+        "label": "Start Your Project ↗",
+        "href": "page:p_contact",
+        "variant": "primary"
+       },
+       "style": {
+        "align": "center"
+       },
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_contact",
+   "title": "Contact",
+   "slug": "contact",
+   "navLabel": "Contact",
+   "inNav": true,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "Contact Webfiver | Start Your Project",
+    "description": "Contact Kalpesh Goswami to discuss your website, trading tool, resume, content or course enquiry."
+   },
+   "sections": [
+    {
+     "id": "slr5yc7t",
+     "type": "section",
+     "props": {
+      "cols": 2,
+      "padTop": 120
+     },
+     "items": [
+      {
+       "id": "erkdfr5w",
+       "type": "text",
+       "props": {
+        "html": "<p style=\"color:var(--secondary)\"><strong>CONTACT</strong></p><h2>Let’s Talk About Your Project</h2><p>Have a question, project idea, or course inquiry? Share a few details and I’ll get back to you.</p><p><strong>Kalpesh Goswami</strong><br>Phone / WhatsApp: <em>to be added</em><br>Email: <em>to be added</em><br>Instagram: <em>to be added</em><br>LinkedIn: <em>add your profile URL</em><br>Location: India</p>"
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "ejtsp14o",
+       "type": "form",
+       "props": {
+        "btnLabel": "Send message",
+        "mode": "email",
+        "success": "Your email app has opened with your message — please press Send there. Thank you!",
+        "fields": [
+         {
+          "label": "Your name",
+          "type": "text",
+          "required": true
+         },
+         {
+          "label": "Email address",
+          "type": "email",
+          "required": true
+         },
+         {
+          "label": "Service required",
+          "type": "select",
+          "options": "Website Development, Trading Tools, ATS Resume, Content Writing, LinkedIn Revamp, LinkedIn Management, Online Course, Other"
+         },
+         {
+          "label": "Estimated budget",
+          "type": "text"
+         },
+         {
+          "label": "Project details",
+          "type": "textarea",
+          "required": true
+         }
+        ]
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_privacy",
+   "title": "Privacy Policy",
+   "slug": "privacy-policy",
+   "navLabel": "Privacy Policy",
+   "inNav": false,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "",
+    "description": ""
+   },
+   "sections": [
+    {
+     "id": "s2w82xsx",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120
+     },
+     "items": [
+      {
+       "id": "evx5jcq7",
+       "type": "heading",
+       "props": {
+        "html": "Privacy Policy",
+        "level": 1
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e0ewjzbm",
+       "type": "text",
+       "props": {
+        "html": "<p><em>Template draft — review and adapt this page with a qualified professional so it accurately describes how Webfiver operates before relying on it.</em></p><p>Describe what information you collect (contact details shared by email or WhatsApp, payment details handled by your payment provider, analytics), why you collect it, how long you keep it, and how visitors can contact you to access or delete it.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_terms",
+   "title": "Terms & Conditions",
+   "slug": "terms-and-conditions",
+   "navLabel": "Terms & Conditions",
+   "inNav": false,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "",
+    "description": ""
+   },
+   "sections": [
+    {
+     "id": "snkj9qoa",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120
+     },
+     "items": [
+      {
+       "id": "e6qwaw7r",
+       "type": "heading",
+       "props": {
+        "html": "Terms &amp; Conditions",
+        "level": 1
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "eldotek5",
+       "type": "text",
+       "props": {
+        "html": "<p><em>Template draft — review and adapt this page with a qualified professional so it accurately describes how Webfiver operates before relying on it.</em></p><p>Describe service delivery, scope and revisions, payment terms, intellectual property, course-access terms, limitation of liability, and the trading-risk disclaimer: tools support analysis and do not guarantee profits.</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_refund",
+   "title": "Refund Policy",
+   "slug": "refund-policy",
+   "navLabel": "Refund Policy",
+   "inNav": false,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "",
+    "description": ""
+   },
+   "sections": [
+    {
+     "id": "se9uykrk",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 120
+     },
+     "items": [
+      {
+       "id": "eed2nowb",
+       "type": "heading",
+       "props": {
+        "html": "Refund Policy",
+        "level": 1
+       },
+       "style": {},
+       "span": 1
+      },
+      {
+       "id": "e91hcv8y",
+       "type": "text",
+       "props": {
+        "html": "<p><em>Template draft — review and adapt this page with a qualified professional so it accurately describes how Webfiver operates before relying on it.</em></p><p>State clearly when refunds or cancellations are possible for services and for courses (including access period and digital-content terms).</p>"
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_paid",
+   "title": "Payment received",
+   "slug": "payment-success",
+   "navLabel": "Payment received",
+   "inNav": false,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "",
+    "description": ""
+   },
+   "sections": [
+    {
+     "id": "swdrhjre",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 140
+     },
+     "items": [
+      {
+       "id": "e3uoys4f",
+       "type": "payresult",
+       "props": {
+        "kind": "success",
+        "title": "Thank you!",
+        "msg": "If your payment went through, you will receive a confirmation from the payment provider. We will contact you shortly with the next steps."
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p_failed",
+   "title": "Payment not completed",
+   "slug": "payment-failed",
+   "navLabel": "Payment not completed",
+   "inNav": false,
+   "visible": true,
+   "parent": "",
+   "landing": false,
+   "seo": {
+    "title": "",
+    "description": ""
+   },
+   "sections": [
+    {
+     "id": "s2p6if42",
+     "type": "section",
+     "props": {
+      "cols": 1,
+      "width": "narrow",
+      "padTop": 140
+     },
+     "items": [
+      {
+       "id": "e5165lhm",
+       "type": "payresult",
+       "props": {
+        "kind": "failure",
+        "title": "Payment not completed",
+        "msg": "Your payment did not go through. You can try again or contact us for help."
+       },
+       "style": {},
+       "span": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
