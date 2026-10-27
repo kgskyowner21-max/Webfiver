@@ -1623,7 +1623,8 @@
         "icon": "📑",
         "title": "Resume Pro",
         "price": "₹1,499",
-        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>"
+        "desc": "<p>Customized resume, stronger bullet points, and alignment with one target job description.</p>",
+        "btnLabel": ""
        },
        "style": {},
        "span": 1
