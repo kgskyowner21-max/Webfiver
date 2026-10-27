@@ -176,7 +176,7 @@
       "padTop": 130,
       "padBottom": 100,
       "bg": {
-       "type": "none"
+       "type": "image"
       },
       "hideOn": [],
       "panel": false
