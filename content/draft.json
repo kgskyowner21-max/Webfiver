@@ -307,7 +307,8 @@
         "icon": "💻",
         "title": "Web Development",
         "desc": "<p>Modern, responsive websites for your business or personal brand.</p>",
-        "price": ""
+        "price": "",
+        "image": "/media/artboard2-jpg-11874.webp"
        },
        "style": {},
        "span": 1
