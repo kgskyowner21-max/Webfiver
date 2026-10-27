@@ -374,7 +374,7 @@
        "id": "egcekf23",
        "type": "text",
        "props": {
-        "html": "<p>WHAT WE DO</p>"
+        "html": "<p><span style=\"font-size:51px\">WHAT WE DO</span></p>"
        },
        "style": {
         "size": 13,
@@ -418,7 +418,7 @@
         "ratio": "16:9",
         "icon": "💻",
         "title": "Website Development",
-        "price": "Starting at ₹4,999",
+        "price": "Starting at ₹9,999",
         "desc": "<p>Get a professional, mobile-friendly website that presents your brand, showcases your services, and turns visitors into potential customers.</p>",
         "features": "Personal portfolio websites\nBusiness and service websites\nLanding pages and lead-generation websites\nWebsite redesign and UI improvements\nCustom web applications and dashboards",
         "btnLabel": "Get Your Website →",
@@ -450,7 +450,7 @@
         "ratio": "16:9",
         "icon": "📄",
         "title": "ATS-Friendly Resume Writing",
-        "price": "Starting at ₹799",
+        "price": "Starting at ₹2,499",
         "desc": "<p>Present your skills, experience, and achievements in a recruiter-friendly resume with clear formatting and relevant keywords.</p>",
         "features": "ATS-friendly resume creation\nExisting resume redesign\nProfessional summary and skills optimization\nJob-description keyword alignment\nLinkedIn and resume consistency review",
         "btnLabel": "Upgrade My Resume →",
@@ -482,7 +482,7 @@
         "ratio": "16:9",
         "icon": "💼",
         "title": "LinkedIn Profile Revamp",
-        "price": "Starting at ₹1,499",
+        "price": "Starting at ₹9,999",
         "desc": "<p>Turn your LinkedIn profile into a professional personal-brand page that clearly communicates who you are, what you do, and how you help.</p>",
         "features": "Profile headline optimization\nAbout section rewriting\nExperience and skills improvement\nFeatured section recommendations\nKeyword optimization for relevant searches",
         "btnLabel": "Revamp My Profile →",
@@ -498,7 +498,7 @@
         "ratio": "16:9",
         "icon": "📅",
         "title": "LinkedIn Management",
-        "price": "Starting at ₹5,999/month",
+        "price": "Starting at ₹10,999/month",
         "desc": "<p>Maintain a consistent professional presence with content planning, post creation, and profile activity support.</p>",
         "features": "Monthly content calendar\nLinkedIn post writing\nContent publishing coordination\nProfile positioning and brand consistency\nMonthly performance review",
         "btnLabel": "Grow My LinkedIn Presence →",
@@ -533,7 +533,7 @@
        "id": "efhzs0fx",
        "type": "text",
        "props": {
-        "html": "<p>TRADING TOOLS</p>"
+        "html": "<p><span style=\"font-size:51px\">TRADING TOOLS</span></p>"
        },
        "style": {
         "size": 13,
@@ -601,7 +601,7 @@
         "ratio": "16:9",
         "icon": "🔎",
         "title": "Custom stock scanner",
-        "price": "₹7,999"
+        "price": "₹8,999"
        },
        "style": {},
        "span": 1
@@ -671,7 +671,7 @@
        "id": "e3y8zky7",
        "type": "text",
        "props": {
-        "html": "<p>WEBSITE DEVELOPMENT PACKAGES</p>"
+        "html": "<p><span style=\"font-size:51px\">WEBSITE DEVELOPMENT PACKAGES</span></p>"
        },
        "style": {
         "size": 13,
@@ -785,7 +785,7 @@
        "id": "el3qxzos",
        "type": "text",
        "props": {
-        "html": "<p>LEARN. PRACTICE. GROW.</p>"
+        "html": "<p><span style=\"font-size:51px\">LEARN. PRACTICE. GROW.</span></p>"
        },
        "style": {
         "size": 13,
@@ -829,7 +829,7 @@
         "ratio": "16:9",
         "icon": "📣",
         "title": "Digital Marketing Fundamentals",
-        "price": "₹1,499",
+        "price": "₹29,999",
         "desc": "<p>Learn SEO basics, social media marketing, content strategy, audience targeting, and digital campaign fundamentals.</p>",
         "btnLabel": "Enroll Now →",
         "btnVariant": "primary",
@@ -846,7 +846,7 @@
         "ratio": "16:9",
         "icon": "🤖",
         "title": "AI Tools for Everyday Work",
-        "price": "₹999",
+        "price": "₹4,999",
         "desc": "<p>Learn to use AI tools for research, productivity, brainstorming, content creation, and everyday workflows.</p>",
         "btnLabel": "Enroll Now →",
         "btnVariant": "primary",
@@ -863,7 +863,7 @@
         "ratio": "16:9",
         "icon": "🗣️",
         "title": "English Speaking & Communication",
-        "price": "₹1,499",
+        "price": "₹14,999",
         "desc": "<p>Practice everyday English, sentence formation, vocabulary, conversation, and professional communication.</p>",
         "btnLabel": "Enroll Now →",
         "btnVariant": "primary",
@@ -880,7 +880,7 @@
         "ratio": "16:9",
         "icon": "📝",
         "title": "Content Writing Masterclass",
-        "price": "₹999",
+        "price": "₹21,999",
         "desc": "<p>Learn content structure, copywriting basics, blog writing, SEO writing, and clear communication.</p>",
         "btnLabel": "Enroll Now →",
         "btnVariant": "primary",
@@ -897,10 +897,10 @@
         "ratio": "16:9",
         "icon": "🎁",
         "title": "Webfiver Digital Skills Bundle",
-        "price": "₹3,499",
+        "price": "₹50,999",
         "badge": "Bundle",
         "featured": true,
-        "desc": "<p>All four course categories for ₹3,499, compared with ₹4,996 when purchased separately.</p>",
+        "desc": "<p>All four course categories for ₹50,999, compared with ₹65,999 when purchased separately.</p>",
         "btnLabel": "Enroll in Bundle →",
         "btnVariant": "primary",
         "href": "page:p_contact",
