@@ -176,7 +176,7 @@
       "padTop": 130,
       "padBottom": 100,
       "bg": {
-       "type": "glow"
+       "type": "none"
       },
       "hideOn": [],
       "panel": false
