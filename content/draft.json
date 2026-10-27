@@ -176,7 +176,8 @@
       "padTop": 130,
       "padBottom": 100,
       "bg": {
-       "type": "image"
+       "type": "glow",
+       "overlay": 0.35
       },
       "hideOn": [],
       "panel": false
