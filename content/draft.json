@@ -533,7 +533,7 @@
        "id": "efhzs0fx",
        "type": "text",
        "props": {
-        "html": "<p>TRADING TOOLS</p>"
+        "html": "<p><span style=\"font-size:51px\">TRADING TOOLS</span></p>"
        },
        "style": {
         "size": 13,
