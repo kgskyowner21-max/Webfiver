@@ -284,9 +284,7 @@
      "type": "section",
      "props": {
       "cols": 5,
-      "ct": 2,
-      "bg": {},
-      "hideOn": []
+      "ct": 2
      },
      "items": [
       {
@@ -353,92 +351,6 @@
       },
       {
        "id": "en6cbcrs",
-       "type": "card",
-       "props": {
-        "ratio": "16:9",
-        "icon": "🎓",
-        "title": "Online Learning",
-        "desc": "<p>Practical courses in digital marketing, AI, English speaking, and content writing.</p>"
-       },
-       "style": {},
-       "span": 1
-      }
-     ]
-    },
-    {
-     "id": "sha6ruca",
-     "type": "section",
-     "props": {
-      "cols": 5,
-      "ct": 2,
-      "bg": {},
-      "hideOn": []
-     },
-     "items": [
-      {
-       "id": "ebqtehmp",
-       "type": "heading",
-       "props": {
-        "html": "One Platform. Multiple Ways to Grow.",
-        "level": 2
-       },
-       "style": {
-        "align": "center"
-       },
-       "span": 5
-      },
-      {
-       "id": "ebupyg4m",
-       "type": "card",
-       "props": {
-        "ratio": "16:9",
-        "icon": "💻",
-        "title": "Web Development",
-        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>",
-        "price": "",
-        "image": "/media/artboard2-jpg-11874.webp"
-       },
-       "style": {},
-       "span": 1
-      },
-      {
-       "id": "eaeqz1iy",
-       "type": "card",
-       "props": {
-        "ratio": "16:9",
-        "icon": "📊",
-        "title": "Trading Technology",
-        "desc": "<p>Custom trading tools and dashboards designed around your workflow.</p>"
-       },
-       "style": {},
-       "span": 1
-      },
-      {
-       "id": "eo77g095",
-       "type": "card",
-       "props": {
-        "ratio": "16:9",
-        "icon": "📄",
-        "title": "Career Services",
-        "desc": "<p>ATS-friendly resumes and LinkedIn profile optimization.</p>"
-       },
-       "style": {},
-       "span": 1
-      },
-      {
-       "id": "edwgh1bp",
-       "type": "card",
-       "props": {
-        "ratio": "16:9",
-        "icon": "✍️",
-        "title": "Content & Branding",
-        "desc": "<p>Strategic content writing and LinkedIn management.</p>"
-       },
-       "style": {},
-       "span": 1
-      },
-      {
-       "id": "ep0sf0ba",
        "type": "card",
        "props": {
         "ratio": "16:9",
