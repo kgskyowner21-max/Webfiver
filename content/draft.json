@@ -179,7 +179,7 @@
        "type": "glow"
       },
       "hideOn": [],
-      "panel": true
+      "panel": false
      },
      "items": [
       {
