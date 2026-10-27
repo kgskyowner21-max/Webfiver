@@ -671,7 +671,7 @@
        "id": "e3y8zky7",
        "type": "text",
        "props": {
-        "html": "<p>WEBSITE DEVELOPMENT PACKAGES</p>"
+        "html": "<p><span style=\"font-size: 49px;\">WEBSITE DEVELOPMENT PACKAGES</span></p>"
        },
        "style": {
         "size": 13,
