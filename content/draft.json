@@ -303,7 +303,8 @@
         "ratio": "16:9",
         "icon": "💻",
         "title": "Web Development",
-        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>"
+        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>",
+        "price": ""
        },
        "style": {},
        "span": 1
@@ -4017,5 +4018,7 @@
     }
    ]
   }
- ]
+ ],
+ "reusable": [],
+ "customThemes": []
 }
