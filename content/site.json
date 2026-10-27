@@ -176,8 +176,11 @@
       "padTop": 130,
       "padBottom": 100,
       "bg": {
-       "type": "glow"
-      }
+       "type": "glow",
+       "overlay": 0.35
+      },
+      "hideOn": [],
+      "panel": false
      },
      "items": [
       {
@@ -303,7 +306,9 @@
         "ratio": "16:9",
         "icon": "💻",
         "title": "Web Development",
-        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>"
+        "desc": "<p>Modern, responsive websites for your business or personal brand.</p>",
+        "price": "",
+        "image": "/media/artboard2-jpg-11874.webp"
        },
        "style": {},
        "span": 1
@@ -3356,7 +3361,7 @@
        "id": "eeiufaxf",
        "type": "image",
        "props": {
-        "src": "",
+        "src": "/media/new-1-0hrlu.webp",
         "alt": "Kalpesh Goswami",
         "ratio": "4:5",
         "radius": 24,
@@ -4017,5 +4022,7 @@
     }
    ]
   }
- ]
+ ],
+ "reusable": [],
+ "customThemes": []
 }
