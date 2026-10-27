@@ -785,7 +785,7 @@
        "id": "el3qxzos",
        "type": "text",
        "props": {
-        "html": "<p><span style=\"font-size: 51px;\">LEARN. PRACTICE. GROW.</span></p>"
+        "html": "<p><span style=\"font-size:51px\">LEARN. PRACTICE. GROW.</span></p>"
        },
        "style": {
         "size": 13,
