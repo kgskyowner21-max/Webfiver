@@ -374,7 +374,7 @@
        "id": "egcekf23",
        "type": "text",
        "props": {
-        "html": "<p>WHAT WE DO</p>"
+        "html": "<p><span style=\"font-size:35px\">WHAT WE DO</span></p>"
        },
        "style": {
         "size": 13,
